@@ -36,6 +36,10 @@ GET API - NAME: APPLE IPHONE 14/ Samsung Galaxy S22/ Dell XPS 13
 PREDICT MODEL - NAME: APPLE IPHONE 14/ Samsung Galaxy S22/ Dell XPS 13;
 	      - CATEGORY: SMARTPHONES/ HEADPHONES/ CAMERAS;
 
+<h1>Funcionalidade da IA</h1>
+Nós desenvolvemos uma IA preditiva que com base nos dados do csv, que fora implementado, ela irá prever o preco medio do produto que o cliente esta a procura.
+Acima eu deixei alguns de nossos produtos que voce pode testar, tanto a requisicao como o a predicao de valor medio do produto.
+
 <h1>Praticas de Clean Code</h1>
 -Nomes Significativos
 -Estruturacao Consistente
