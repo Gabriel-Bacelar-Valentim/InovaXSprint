@@ -1,0 +1,183 @@
+Name,Category,Price,Rating
+Apple iPhone 14,Smartphones,799.99,4.5
+Samsung Galaxy S22,Headphones,999.99,4.3
+Sony WH-1000XM4,Laptops,299.99,4.8
+Dell XPS 13,Cameras,1200.0,4.6
+HP Spectre x360,Smart Home,1099.99,4.4
+Google Pixel 7,Wearables,899.99,4.2
+Bose QuietComfort 35,Gaming Consoles,379.99,4.9
+Microsoft Surface Pro 8,TVs,1299.99,4.7
+Apple MacBook Pro,Home Appliances,2399.99,4.8
+Asus ROG Zephyrus,Audio,1999.99,4.3
+Lenovo ThinkPad X1,Networking,1999.99,4.6
+Canon EOS R6,Vacuum Cleaners,2499.0,4.5
+Nikon Z6,Kitchen Appliances,2299.0,4.4
+GoPro HERO9,Smartphones,499.99,4.7
+DJI Mavic Air 2,Headphones,799.99,4.8
+Amazon Echo Dot,Laptops,49.99,4.2
+Fitbit Charge 4,Cameras,149.99,4.3
+Garmin Forerunner 945,Smart Home,649.99,4.5
+Apple Watch Series 6,Wearables,399.99,4.6
+Oculus Quest 2,Gaming Consoles,299.99,4.9
+Roku Streaming Stick,TVs,49.99,4.7
+Sony PlayStation 5,Home Appliances,499.99,4.8
+Xbox Series X,Audio,499.99,4.5
+Nintendo Switch,Networking,299.99,4.6
+Samsung 4K TV,Vacuum Cleaners,1299.99,4.9
+LG OLED TV,Kitchen Appliances,1999.99,4.5
+Sony 4K TV,Smartphones,2299.0,4.6
+Philips Hue,Headphones,99.99,4.3
+TP-Link Router,Laptops,199.99,4.4
+Netgear Nighthawk,Cameras,399.99,4.8
+Dyson V11 Vacuum,Smart Home,599.99,4.7
+iRobot Roomba,Wearables,299.99,4.5
+KitchenAid Mixer,Gaming Consoles,499.99,4.9
+Breville Espresso Machine,TVs,499.99,4.4
+Instant Pot,Home Appliances,2499.0,4.7
+Samsung Refrigerator,Audio,1999.99,4.6
+LG Washing Machine,Networking,1299.0,4.3
+Bosch Dishwasher,Vacuum Cleaners,1999.0,4.9
+Whirlpool Oven,Kitchen Appliances,249.99,4.5
+Apple AirPods Pro,Smartphones,179.99,4.4
+Sony WF-1000XM3,Headphones,799.99,4.5
+Apple iPhone 14,Laptops,999.99,4.3
+Samsung Galaxy S22,Cameras,299.99,4.8
+Sony WH-1000XM4,Smart Home,1200.0,4.6
+Dell XPS 13,Wearables,1099.99,4.4
+HP Spectre x360,Gaming Consoles,899.99,4.2
+Google Pixel 7,TVs,379.99,4.9
+Bose QuietComfort 35,Home Appliances,1299.99,4.7
+Microsoft Surface Pro 8,Audio,2399.99,4.8
+Apple MacBook Pro,Networking,1999.99,4.3
+Asus ROG Zephyrus,Vacuum Cleaners,1999.99,4.6
+Lenovo ThinkPad X1,Kitchen Appliances,2499.0,4.5
+Canon EOS R6,Smartphones,2299.0,4.4
+Nikon Z6,Headphones,499.99,4.7
+GoPro HERO9,Laptops,799.99,4.8
+DJI Mavic Air 2,Cameras,49.99,4.2
+Amazon Echo Dot,Smart Home,149.99,4.3
+Fitbit Charge 4,Wearables,649.99,4.5
+Garmin Forerunner 945,Gaming Consoles,399.99,4.6
+Apple Watch Series 6,TVs,299.99,4.9
+Oculus Quest 2,Home Appliances,49.99,4.7
+Roku Streaming Stick,Audio,499.99,4.8
+Sony PlayStation 5,Networking,499.99,4.5
+Xbox Series X,Vacuum Cleaners,299.99,4.6
+Nintendo Switch,Kitchen Appliances,1299.99,4.9
+Samsung 4K TV,Smartphones,1999.99,4.5
+LG OLED TV,Headphones,2299.0,4.6
+Sony 4K TV,Laptops,99.99,4.3
+Philips Hue,Cameras,199.99,4.4
+TP-Link Router,Smart Home,399.99,4.8
+Netgear Nighthawk,Wearables,599.99,4.7
+Dyson V11 Vacuum,Gaming Consoles,299.99,4.5
+iRobot Roomba,TVs,499.99,4.9
+KitchenAid Mixer,Home Appliances,499.99,4.4
+Breville Espresso Machine,Audio,2499.0,4.7
+Instant Pot,Networking,1999.99,4.6
+Samsung Refrigerator,Vacuum Cleaners,1299.0,4.3
+LG Washing Machine,Kitchen Appliances,1999.0,4.9
+Bosch Dishwasher,Smartphones,249.99,4.5
+Whirlpool Oven,Headphones,179.99,4.4
+Apple AirPods Pro,Laptops,799.99,4.5
+Sony WF-1000XM3,Cameras,999.99,4.3
+Apple iPhone 14,Smart Home,299.99,4.8
+Samsung Galaxy S22,Wearables,1200.0,4.6
+Sony WH-1000XM4,Gaming Consoles,1099.99,4.4
+Dell XPS 13,TVs,899.99,4.2
+HP Spectre x360,Home Appliances,379.99,4.9
+Google Pixel 7,Audio,1299.99,4.7
+Bose QuietComfort 35,Networking,2399.99,4.8
+Microsoft Surface Pro 8,Vacuum Cleaners,1999.99,4.3
+Apple MacBook Pro,Kitchen Appliances,1999.99,4.6
+Asus ROG Zephyrus,Smartphones,2499.0,4.5
+Lenovo ThinkPad X1,Headphones,2299.0,4.4
+Canon EOS R6,Laptops,499.99,4.7
+Nikon Z6,Cameras,799.99,4.8
+GoPro HERO9,Smart Home,49.99,4.2
+DJI Mavic Air 2,Wearables,149.99,4.3
+Amazon Echo Dot,Gaming Consoles,649.99,4.5
+Fitbit Charge 4,TVs,399.99,4.6
+Garmin Forerunner 945,Home Appliances,299.99,4.9
+Apple iPhone 14,Smartphones,799.99,4.5
+Samsung Galaxy S22,Headphones,999.99,4.3
+Sony WH-1000XM4,Laptops,299.99,4.8
+Dell XPS 13,Cameras,1200.0,4.6
+HP Spectre x360,Smart Home,1099.99,4.4
+Google Pixel 7,Wearables,899.99,4.2
+Bose QuietComfort 35,Gaming Consoles,379.99,4.9
+Microsoft Surface Pro 8,TVs,1299.99,4.7
+Apple MacBook Pro,Home Appliances,2399.99,4.8
+Asus ROG Zephyrus,Audio,1999.99,4.3
+Lenovo ThinkPad X1,Networking,1999.99,4.6
+Canon EOS R6,Vacuum Cleaners,2499.0,4.5
+Nikon Z6,Kitchen Appliances,2299.0,4.4
+GoPro HERO9,Smartphones,499.99,4.7
+DJI Mavic Air 2,Headphones,799.99,4.8
+Amazon Echo Dot,Laptops,49.99,4.2
+Fitbit Charge 4,Cameras,149.99,4.3
+Garmin Forerunner 945,Smart Home,649.99,4.5
+Apple Watch Series 6,Wearables,399.99,4.6
+Oculus Quest 2,Gaming Consoles,299.99,4.9
+Roku Streaming Stick,TVs,49.99,4.7
+Sony PlayStation 5,Home Appliances,499.99,4.8
+Xbox Series X,Audio,499.99,4.5
+Nintendo Switch,Networking,299.99,4.6
+Samsung 4K TV,Vacuum Cleaners,1299.99,4.9
+LG OLED TV,Kitchen Appliances,1999.99,4.5
+Sony 4K TV,Smartphones,2299.0,4.6
+Philips Hue,Headphones,99.99,4.3
+TP-Link Router,Laptops,199.99,4.4
+Netgear Nighthawk,Cameras,399.99,4.8
+Dyson V11 Vacuum,Smart Home,599.99,4.7
+iRobot Roomba,Wearables,299.99,4.5
+KitchenAid Mixer,Gaming Consoles,499.99,4.9
+Breville Espresso Machine,TVs,499.99,4.4
+Instant Pot,Home Appliances,2499.0,4.7
+Samsung Refrigerator,Audio,1999.99,4.6
+LG Washing Machine,Networking,1299.0,4.3
+Bosch Dishwasher,Vacuum Cleaners,1999.0,4.9
+Whirlpool Oven,Kitchen Appliances,249.99,4.5
+Apple AirPods Pro,Smartphones,179.99,4.4
+Sony WF-1000XM3,Headphones,799.99,4.5
+Apple iPhone 14,Smartphones,815.61,4.43
+Samsung Galaxy S22,Headphones,1086.06,4.49
+Sony WH-1000XM4,Laptops,312.32,4.36
+Dell XPS 13,Cameras,1221.54,4.76
+HP Spectre x360,Smart Home,1066.39,4.57
+Google Pixel 7,Wearables,952.51,3.91
+Bose QuietComfort 35,Gaming Consoles,370.50,4.52
+Microsoft Surface Pro 8,TVs,1503.71,4.51
+Apple MacBook Pro,Home Appliances,2845.10,4.66
+Asus ROG Zephyrus,Audio,1906.74,4.37
+Lenovo ThinkPad X1,Networking,2233.36,4.53
+Canon EOS R6,Vacuum Cleaners,2527.88,4.98
+Nikon Z6,Kitchen Appliances,2361.57,4.00
+GoPro HERO9,Smartphones,585.10,4.40
+DJI Mavic Air 2,Headphones,662.72,4.46
+Amazon Echo Dot,Laptops,41.73,4.35
+Fitbit Charge 4,Cameras,121.20,4.05
+Garmin Forerunner 945,Smart Home,736.46,4.46
+Apple Watch Series 6,Wearables,444.49,4.34
+Oculus Quest 2,Gaming Consoles,344.38,4.55
+Roku Streaming Stick,TVs,59.56,4.31
+Sony PlayStation 5,Home Appliances,559.82,4.95
+Xbox Series X,Audio,492.28,4.13
+Nintendo Switch,Networking,333.65,4.29
+Samsung 4K TV,Vacuum Cleaners,1101.49,4.76
+LG OLED TV,Kitchen Appliances,2111.92,4.82
+Sony 4K TV,Smartphones,1971.02,4.19
+Philips Hue,Headphones,117.77,4.63
+TP-Link Router,Laptops,201.73,3.99
+Netgear Nighthawk,Cameras,386.33,5.0
+Dyson V11 Vacuum,Smart Home,543.48,4.66
+iRobot Roomba,Wearables,332.89,4.97
+KitchenAid Mixer,Gaming Consoles,491.22,5.0
+Breville Espresso Machine,TVs,513.67,4.63
+Instant Pot,Home Appliances,2017.98,4.23
+Samsung Refrigerator,Audio,2094.09,4.38
+LG Washing Machine,Networking,1357.24,3.92
+Bosch Dishwasher,Vacuum Cleaners,2092.50,4.69
+Whirlpool Oven,Kitchen Appliances,294.36,4.11
+Apple AirPods Pro,Smartphones,193.08,4.21
+Sony WF-1000XM3,Headphones,755.03,4.41
