@@ -25,9 +25,21 @@ Repository: Utilizado para centralizar as operações de acesso ao banco de dado
 https://localhost:7201/swagger/index.html
 Esse será o ambiente onde você poderá testar as requisições da API.
 
-TESTS:
+<h1>TESTE </h1>
+Foi feito um teste que ele verifica o valor do CEP passado, e se for verdadeiro ele procede devolvendo todas as informacoes, agora se o cep nao concidir ele retorna um erro de o cep esta incorreto
+
+
+<h1>TESTES MODEL : </h1>
 
 GET API - NAME: APPLE IPHONE 14/ Samsung Galaxy S22/ Dell XPS 13
 
 PREDICT MODEL - NAME: APPLE IPHONE 14/ Samsung Galaxy S22/ Dell XPS 13;
-			  - CATEGORY: SMARTPHONES/ HEADPHONES/ CAMERAS;
+	      - CATEGORY: SMARTPHONES/ HEADPHONES/ CAMERAS;
+
+<h1>Praticas de Clean Code</h1>
+-Nomes Significativos
+-Estruturacao Consistente
+-Codigo Autoexplicativo
+-Organizacao do Codigo
+-Principio DRY
+     
